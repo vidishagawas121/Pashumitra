@@ -1,4 +1,4 @@
-# Cattle Manager
+# Cattle Manager App
 
 Cattle Manager is a comprehensive Flutter application designed to help farmers and ranchers efficiently manage their cattle operations. The app provides tools for tracking cattle, milk production, health events, feed costs, and generating reports.
 
